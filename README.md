@@ -41,4 +41,4 @@ TITLE:
     🚀 Dashboard supports EV market analysis, competitor benchmarking, and consumer choice guidance.
 
 🖼 Dashboard Screenshot: Click Here to View :
-//github.com/Abhipwar04/-Electric-Vehicle-Specifications/blob/main/electric%20vehicle%20specification%20screenshot.png
+https://github.com/Abhipwar04/-Electric-Vehicle-Specifications/blob/main/electric%20vehicle%20specification%20screenshot.png
